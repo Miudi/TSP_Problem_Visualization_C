@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1648333371 source:c:\users\miudi\desktop\example\main.c
+	<stdio.h>
+	<allegro.h>
+	"settings.h"
+	<time.h>
+
+1648332565 c:\users\miudi\desktop\example\settings.h
+
+1649642208 source:c:\users\miudi\desktop\saper\main.c
+	<stdio.h>
+	<allegro.h>
+	"settings.h"
+	"bitmaps.h"
+	<time.h>
+	<unistd.h>
+
+1649688287 c:\users\miudi\desktop\saper\settings.h
+
+1649626146 c:\users\miudi\desktop\saper\bitmaps.h
+	<allegro.h>
+
+1654378795 source:c:\users\miudi\desktop\komi_pr”ba_nr_n\main.c
+	<stdio.h>
+	<allegro.h>
+	"settings.h"
+
+1650925468 c:\users\miudi\desktop\komi_pr”ba_nr_n\settings.h
+
+1654382053 source:c:\users\miudi\desktop\komiwojazer_with_comments\main.c
+	<stdio.h>
+	<allegro.h>
+	"settings.h"
+
+1654382655 c:\users\miudi\desktop\komiwojazer_with_comments\settings.h
+
